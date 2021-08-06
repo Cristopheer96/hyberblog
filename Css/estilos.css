@@ -30,5 +30,10 @@ body{
 
     text-align: center;
 }
-h1{
+#Cabecera {
+    background-color:cornflowerblue;
+    font-size: 30px;
+    text-align: left;
+    color:darkred;
+    box-shadow:0px 2px 20px 0px darkslateblue;
 }
