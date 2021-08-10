@@ -17,6 +17,7 @@ section{
 
 }
 div{     margin:  0 auto;
+    font-family: 'Courier New', Courier, monospace;
 
 
 }
@@ -30,5 +31,7 @@ body{
 
     text-align: center;
 }
-h1{
+#Special{
+    color: chocolate;
+    font-size: 30px;
 }
