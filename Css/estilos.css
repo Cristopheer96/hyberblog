@@ -17,7 +17,8 @@ section{
 
 }
 div{     margin:  0 auto;
-    font-family: 'Courier New', Courier, monospace;
+    color: cornflowerblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 
 }
@@ -33,10 +34,10 @@ body{
 }
 #Special{
     color: chocolate;
-    font-size: 30px;}
+    font-size: 20px;}
 #Cabecera {
     background-color:cornflowerblue;
-    font-size: 30px;
+    font-size: 32px;
     text-align: left;
     color:darkred;
     box-shadow:0px 2px 20px 0px darkslateblue;
