@@ -46,5 +46,11 @@ body{
     width: 30px;
     height: 30px;
 
+}
 
+footer {
+    background-color:khaki;
+    color: darkslategrey;
+    font-size: 22px;
+    margin-top: 20px;
 }
