@@ -42,3 +42,9 @@ body{
     color:darkred;
     box-shadow:0px 2px 20px 0px darkslateblue;
 }
+footer{
+    background-color:khaki;
+    color: darkslategrey;
+    font-size: 22px;
+    margin-top: 20px;
+}
